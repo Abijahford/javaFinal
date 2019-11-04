@@ -1,0 +1,17 @@
+paperTest/Knowledge Tester - a program to help you when time comes to study for an exam.
+
+Classes: GUI, paperTest and Test GUI below are further in depth descriptions of each.
+GUI - this class will be what displays when you FIRST run the program. Consisting of a 
++JComboBox that will display options(subjects) for the user to choose from to study. 
+Along with a way to select a 
++skill level for each subject - Beginner, Intermediate, 
+and Advanced.
++begin button
++reset button
+
+paperTest - a class that will include the queue of questions with 4 answers to choose from,
+aswell as a running total for each study to make sure you can test out of each skill
+level. 
+- in order to advance skill level you must score above 80%.
++next button
++bookmark button - save a question for later.
